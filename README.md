@@ -33,6 +33,9 @@
 ├── README.md          # Документация проекта
 ├── fitodomik.exe      # Приложение exe
 │
+├── temp_humidity_light_2/       # Папка с кодом Arduino
+│    ├──temp_humidity_light_2    # Код для Arduino
+│
 ├── foto/              # Директория с изображениями интерфейса
 │   ├── screen1v1.png  # Скриншот экрана часы и погода
 │   ├── screen2v1.png  # Скриншот экрана мониторинга
